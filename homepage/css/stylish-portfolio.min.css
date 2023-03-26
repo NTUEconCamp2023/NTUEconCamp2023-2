@@ -95,7 +95,7 @@ h6 {
     min-height: 30rem;
     position: relative;
     display: table;
-    width: 100%;
+    width: auto;
     height: auto;
     padding-top: 8rem;
     padding-bottom: 8rem;
@@ -346,8 +346,8 @@ a:hover {
 }
 
 .btn-primary {
-    background-color: #1b3c71 !important;
-    border-color: #1b3c71 !important;
+    background-color: #CC3333 !important;
+    border-color: #4e1d0b !important;
     color: #fff !important
 }
 
@@ -355,7 +355,7 @@ a:hover {
 .btn-primary:focus,
 .btn-primary:hover {
     background-color: #1b3c71 !important;
-    border-color: #1b3c71 !important
+    border-color: #03132e !important
 }
 
 .btn-secondary {
@@ -381,7 +381,7 @@ a:hover {
 }
 
 .bg-primary {
-    background-color: #1b3c71 !important
+    background-color: #CC3333 !important
 }
 
 .text-primary {
@@ -389,5 +389,5 @@ a:hover {
 }
 
 .text-secondary {
-    color: #f5a83c !important
+    color: #FFF100 !important
 }
