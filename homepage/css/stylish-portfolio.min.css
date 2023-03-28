@@ -92,17 +92,18 @@ h6 {
 }
 
 .masthead {
-    min-height: 30rem;
+    min-height: 26.2rem;
     position: relative;
     display: table;
     width: auto;
     height: auto;
-    padding-top: 8rem;
-    padding-bottom: 8rem;
+    margin-bottom: -280;
+    padding-top: 0rem;
+    padding-bottom: 0rem;
     background: linear-gradient(90deg, rgba(255, 255, 255, .1) 0, rgba(255, 255, 255, .1) 100%), url(../img/FB封面.png);
-    background-position: center center;
+    background-position: top;
     background-repeat: no-repeat;
-    background-size: cover
+    background-size: cover;
 }
 
 .masthead h1 {
@@ -355,7 +356,8 @@ a:hover {
 .btn-primary:focus,
 .btn-primary:hover {
     background-color: #4c0e0e !important;
-    border-color: #4e1d0b !important
+    border-color: #4e1d0b !important;
+    color: #e7e1e1 !important
 }
 
 .btn-secondary {
@@ -377,7 +379,7 @@ a:hover {
 
 .btn {
     box-shadow: 0 3px 3px 0 rgba(0, 0, 0, .1);
-    font-weight: 700
+    font-weight: 700;
 }
 
 .bg-primary {
