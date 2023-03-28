@@ -354,8 +354,8 @@ a:hover {
 .btn-primary:active,
 .btn-primary:focus,
 .btn-primary:hover {
-    background-color: #1b3c71 !important;
-    border-color: #03132e !important
+    background-color: #4c0e0e !important;
+    border-color: #4e1d0b !important
 }
 
 .btn-secondary {
