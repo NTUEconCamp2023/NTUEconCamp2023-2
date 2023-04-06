@@ -383,7 +383,7 @@ a:hover {
 }
 
 .bg-primary {
-    background-color: #CC3333 !important
+    background-color: #f5a83c !important
 }
 
 .text-primary {
@@ -391,5 +391,5 @@ a:hover {
 }
 
 .text-secondary {
-    color: #FFF100 !important
+    color: #CC3333 !important
 }
